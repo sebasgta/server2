@@ -1,0 +1,20 @@
+[
+   {
+      "name":"ACLARACIONES",
+      "atributos":[
+         {
+            "value":"1;Clarifications derived from the edicts of the various chambers (e.g. Clarification on the Amount of the Social Capital",
+            "type":"Attribute"
+         }
+      ]
+   },
+   {
+      "name":"ACUERDOS",
+      "atributos":[
+         {
+            "value":"22;Agreements established between/among societies and registered before the various chambers",
+            "type":"Attribute"
+         }
+      ]
+   }
+]
