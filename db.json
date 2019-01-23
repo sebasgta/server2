@@ -1,6 +1,10 @@
 {
    "array" : [
       {
+         "description":"",
+               "childrens":[
+
+         ],
          "name":"ACLARACIONES",
          "atributos":[
             {
@@ -10,6 +14,10 @@
          ]
       },
       {
+         "description":"",
+               "childrens":[
+
+         ],
          "name":"ACUERDOS",
          "atributos":[
             {
