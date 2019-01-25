@@ -5,10 +5,10 @@
                "childrens":[
 
          ],
-         "name":"ACLARACIONES",
+         "name":"TEMP",
          "atributos":[
             {
-               "value":"1;Clarifications derived from the edicts of the various chambers (e.g. Clarification on the Amount of the Social Capital",
+               "value":"1000001;Clarifications derived from the edicts of the various chambers (e.g. Clarification on the Amount of the Social Capital",
                "type":"Attribute"
             }
          ]
@@ -18,10 +18,10 @@
                "childrens":[
 
          ],
-         "name":"ACUERDOS",
+         "name":"TEMP2",
          "atributos":[
             {
-               "value":"22;Agreements established between/among societies and registered before the various chambers",
+               "value":"1000002;Agreements established between/among societies and registered before the various chambers",
                "type":"Attribute"
             }
          ]
